@@ -10,6 +10,3 @@ Hi There 👋
 <a href="https://github.com/wouldmay/">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=wouldmay&show_icons=true&theme=dracula"/>
 </a>
-<a href="https://github.com/wouldmay">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wouldmay&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
